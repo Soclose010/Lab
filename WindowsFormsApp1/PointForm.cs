@@ -13,6 +13,7 @@ namespace WindowsFormsApp1
     {
         private Point[] points = null;
         int flag = 0;
+        int aa = 5;
         public PointForm()
         {
             InitializeComponent();
